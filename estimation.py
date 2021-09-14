@@ -65,17 +65,18 @@ def aitrainer(picture):
 cap = cv2.VideoCapture(0)
 # cap = cv2.VideoCapture("AiTrainer/curls.mp4")
 
+print("训练将在5秒后进行，请您做好准备！")
+
+for i in range(5):
+    time.sleep(1)
+    m = 5 - i
+    print(m)
+
+
 while(1):
     # get a frame
     ret, frame = cap.read()
     frame = cv2.resize(frame, (1280, 720))
-
-    print("训练将在5秒后进行，请您做好准备！")
-
-    for i in range(5):
-        time.sleep(1)
-        m = 5 - i
-        print(m)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break  
