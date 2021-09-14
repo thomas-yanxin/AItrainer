@@ -6,7 +6,7 @@
 
 使用Paddlehub能够便捷地获取PaddlePaddle生态下的预训练模型，完成模型的管理和一键预测。配合使用Fine-tune API，可以基于大规模预训练模型快速完成迁移学习，让预训练模型能更好地服务于用户特定场景的应用。
 
-本项目采用Paddlehub, 基于![human_pose_estimation_resnet50_mpii](https://www.paddlepaddle.org.cn/hubdetail?name=human_pose_estimation_resnet50_mpii&en_category=KeyPointDetection)人体关键点检测模型。
+本项目采用Paddlehub, 基于[human_pose_estimation_resnet50_mpii](https://www.paddlepaddle.org.cn/hubdetail?name=human_pose_estimation_resnet50_mpii&en_category=KeyPointDetection)人体关键点检测模型。
 
 ```
 # 使用前先安装模型
