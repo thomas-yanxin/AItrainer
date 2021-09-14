@@ -171,7 +171,7 @@ cap.release()
 ```
 【注：这里区分了左臂or右臂】
 
-### 效果展示【[bnilibili链接](https://www.bilibili.com/video/BV1cU4y1N7Yo/)】
+### 效果展示【[bilibili链接](https://www.bilibili.com/video/BV1cU4y1N7Yo/)】
 
 ![image](https://user-images.githubusercontent.com/58030051/133214015-b9211570-4b9f-48a5-9edb-f2dac00b0d18.png)
 
