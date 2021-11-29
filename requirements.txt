@@ -1,0 +1,2 @@
+paddlehub>=2.0.4
+paddlepaddle>=2.1.2
